@@ -1,3 +1,5 @@
 #server:
 #  port: 8086
 country: Brazil
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Map_of_Brazil_with_flag.svg/903px-Map_of_Brazil_with_flag.svg.png'
+message: 'Bandeira do Brasil'
