@@ -2,3 +2,4 @@ server:
   port: 8087
 country: EUA
 message: 'United States of America'
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyyB513MyjQNDUMkASCdi6q4zfH2rPTYgJw&usqp=CAU'
